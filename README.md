@@ -5,11 +5,12 @@ Import and Export Data to and from the USA for the last 5 years
 This project is intended to give the user the tools to see trends of products that the USA has imported over the past 3 years. It also gives the option to show the volume of import by country of origin 
 
 # Running the Program
-Python 3 is required. This project is written using version 3.10.4.
-Clone the repo from github.
-Setup a virtual environment and activate it.
-To make sure you have all the necessary packages, run
+1.Python 3 is required. This project is written using version 3.10.4.
+2.Clone the repo from github.
+3. Setup a virtual environment and activate it.
+4. To make sure you have all the necessary packages, run
 "pip install -r requirements.txt". 
+
 The following packages will be required to run the program:
 
 pandas,
